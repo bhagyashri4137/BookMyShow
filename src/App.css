@@ -1,0 +1,45 @@
+
+.card{
+  margin-right:50px;
+}
+
+.carousel-inner .carousel-control-prev{
+  display: none;
+}
+
+.logo{
+  border-radius: 2px;
+ height: 5rem !important;
+ width: 15rem !important;
+}
+
+
+.container-fluid{
+  background-color: black;
+}
+
+span.navbar-toggler-icon{
+ border-radius: 3px;
+ color: black !important;
+  background-color: white !important;
+}
+
+.Navigation-bar{
+  margin: 20px 10px;
+  background-color: gray;
+ 
+  font-weight: bold;
+}
+a.nav-link{
+  padding: 20px 15px;
+  color: white !important;
+  
+}
+
+.signup-container{
+  background-image: linear-gradient(to right, rgb(65, 65, 66) , rgb(35, 37, 37));
+}
+
+html{
+  background-image: linear-gradient(to right, rgb(65, 65, 66) , rgb(35, 37, 37));
+}
